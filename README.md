@@ -3,3 +3,4 @@
 ## Integrantes:
 
 David Ariza
+Maicol Fontecha
