@@ -3,4 +3,4 @@
 ## Integrantes:
 
 David Ariza
-Maicol Fontecha
+Sharem Alonso
